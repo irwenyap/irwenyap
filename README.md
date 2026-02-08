@@ -1,7 +1,10 @@
-<div style="font-size: 48px;" align="center">
-  <kbd>I</kbd> <kbd>R</kbd> <kbd>W</kbd> <kbd>E</kbd> <kbd>N</kbd> 
-  <kbd>Y</kbd> <kbd>A</kbd> <kbd>P</kbd>
-</div>
+![banner](https://github.com/user-attachments/assets/2a702a7a-7059-41e5-8ff3-a027991ed167)
+
+<strong><h1 align="center">IRWEN YAP</h1></strong>
+
+<p align="center">
+  <kbd>W</kbd> <kbd>E</kbd> <kbd>L</kbd> <kbd>C</kbd> <kbd>O</kbd> <kbd>M</kbd> <kbd>E</kbd> <kbd>!</kbd>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
